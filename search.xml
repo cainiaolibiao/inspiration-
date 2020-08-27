@@ -20,4 +20,37 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 <figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--more--&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
   </entry>
+  <entry>
+    <title>test1</title>
+    <url>/2020/08/27/test1/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>java</category>
+      </categories>
+      <tags>
+        <tag>for</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test2</title>
+    <url>/2020/08/27/test2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>cate1</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test3</title>
+    <url>/2020/08/27/test3/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>cate2</category>
+      </categories>
+      <tags>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
 </search>
