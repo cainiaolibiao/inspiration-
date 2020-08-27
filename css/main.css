@@ -1274,7 +1274,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #03ff47;
+  background: #1478ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2867,10 +2867,6 @@ body {
 .category-list li.active a {
   font-weight: bold;
   color: #000;
-}
-#busuanzi_value_site_pv,
-#busuanzi_value_site_uv {
-  color: #293134;
 }
 .post-toc.nav.nav-child {
   display: block;
